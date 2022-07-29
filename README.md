@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ClaymoreRoomba
+- 👀 I’m interested in C, C++, JS, games, algorithms, data structures, OOP
+- 🌱 I’m currently learning how to use git & github
+- 💞️ I’m looking to collaborate on different projects; problem solving, games, algorithms, data structures etc.
